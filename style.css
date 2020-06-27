@@ -46,7 +46,7 @@ body {
 
 .tag {
   display: inline;
-  width: 100px;
+  /* width: 100px; */
   background-color: teal;
   color: #fff;
   padding: 2px 10px;
